@@ -1,2 +1,2 @@
 # PhyChallenge.1
-Given a data in string S, convert it into a DataFrame.
+In this file,  I demonstrate how to convert given data in string S into a DataFrame.
